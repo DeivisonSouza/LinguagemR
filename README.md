@@ -1,4 +1,4 @@
-# -R-language
+# LinguagemR
 Repositório com links para materiais sobre linguagem R.
 
 # R básico
