@@ -5,15 +5,15 @@ Repositório com links para materiais sobre linguagem R.
 
 # Aprendizado de Máquina/Data Mining
 
-Applied Predictive Modeling (http://appliedpredictivemodeling.com/)
+* Applied Predictive Modeling (http://appliedpredictivemodeling.com/)
 
 (Max Kuhn and Kjell Johnson)
 
-The Elements of Statistical Learning: Data Mining, Inference, and Prediction (https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
+* The Elements of Statistical Learning: Data Mining, Inference, and Prediction (https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf)
 
 (Trevor Hastie, Robert Tibshirani and Jerome Friedman)
 
-Data Mining: Practical Machine Learning Tools and Techniques
+* Data Mining: Practical Machine Learning Tools and Techniques
 (https://www.cs.waikato.ac.nz/ml/weka/book.html)
 
 (Ian Witten, Eibe Frank, Mark Hall and C. Pal)
