@@ -16,7 +16,7 @@ The Elements of Statistical Learning: Data Mining, Inference, and Prediction (ht
 Data Mining: Practical Machine Learning Tools and Techniques
 (https://www.cs.waikato.ac.nz/ml/weka/book.html)
 
-Ian Witten, Eibe Frank, Mark Hall and C. Pal
+(Ian Witten, Eibe Frank, Mark Hall and C. Pal)
 
 # Engenharia de variáveis
 Feature Engineering and Selection: A Practical Approach for Predictive Models (https://bookdown.org/max/FES/)
