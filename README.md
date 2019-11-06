@@ -19,6 +19,6 @@ Repositório com links para materiais sobre linguagem R.
 (Ian Witten, Eibe Frank, Mark Hall and C. Pal)
 
 # Engenharia de variáveis
-Feature Engineering and Selection: A Practical Approach for Predictive Models (https://bookdown.org/max/FES/)
+* Feature Engineering and Selection: A Practical Approach for Predictive Models (https://bookdown.org/max/FES/)
 
 (Max Kuhn and Kjell Johnson)
