@@ -1,4 +1,4 @@
-# LinguagemR
+# R language
 Repository with links to R language materials.
 
 # R básico
