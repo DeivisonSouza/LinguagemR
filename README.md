@@ -1,5 +1,5 @@
 # LinguagemR
-Repositório com links para materiais sobre linguagem R.
+Repository with links to R language materials.
 
 # R básico
 
