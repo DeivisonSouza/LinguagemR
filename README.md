@@ -3,7 +3,7 @@ Repository with links to R language materials.
 
 # R básico
 
-# Aprendizado de Máquina/Data Mining
+# Aprendizado de Máquina/Data Mining/Computer Vision
 
 * Applied Predictive Modeling (http://appliedpredictivemodeling.com/)
 
